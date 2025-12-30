@@ -43,8 +43,8 @@ This project was a collaborative effort by the following team members:
 
 | Name | Student ID | Contribution |
 | :--- | :--- | :--- |
-| **Golam Kibria** | 22-49507-3 | 25% |
 | **Showrav Ghosh** | 23-50666-1 | 25% |
+| **Golam Kibria** | 22-49507-3 | 25% |
 | **Sadman Sakib Shad** | 22-49501-3 | 25% |
 | **MD. Faysal Khan** | 22-49312-3 | 25% |
 
